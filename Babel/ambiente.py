@@ -1,3 +1,4 @@
+##Autor: Duvan Felipe Delgadillo Cuevas
 import pyaudio
 import numpy as np
 import noisereduce as nr
