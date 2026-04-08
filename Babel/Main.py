@@ -1,3 +1,4 @@
+## Autor: Duvan Felipe Delgadillo Cuevas
 import customtkinter as ctk
 
 class Babel(ctk.CTk):
